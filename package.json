@@ -20,5 +20,8 @@
   "homepage": "https://github.com/NazarioLuis/js-clean-architecture#readme",
   "dependencies": {
     "awilix": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.1"
   }
 }
