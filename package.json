@@ -1,0 +1,24 @@
+{
+  "name": "js-clean-architecture",
+  "version": "1.0.0",
+  "description": "\"# Clean Architecture implementation written in NodeJS\"",
+  "main": "container.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarioLuis/js-clean-architecture.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/NazarioLuis/js-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/NazarioLuis/js-clean-architecture#readme",
+  "dependencies": {
+    "awilix": "^4.3.4"
+  }
+}

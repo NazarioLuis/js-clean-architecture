@@ -1,1 +1,1 @@
-"# js-clean-architecture" 
+"# Clean Architecture implementation written in NodeJS" 
