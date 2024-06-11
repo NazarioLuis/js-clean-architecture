@@ -10,8 +10,8 @@ module.exports = function (filename, dirname) {
       return (file.indexOf('.') !== 0) && (file !== basename) && (file.slice(-3) === '.js')
     })
     .forEach(file => {
-      const repo = require(path.join(dirname, file))
-      imports.push(repo);
+      const mod = require(path.join(dirname, file))
+      imports.push(mod);
     });
   return imports
 }
