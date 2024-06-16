@@ -2,7 +2,7 @@
 
 Clean Architecture is a software architectural approach that emphasizes the separation of concerns and the independence of dependencies within a system. The main idea behind Clean Architecture is to design software systems in a way that allows for easy maintenance, scalability, and testability, while also promoting a clear understanding of the system's structure and behavior. 
 
-**Repository: **[https://github.com/NazarioLuis/js-clean-architecture/](https://github.com/NazarioLuis/js-clean-architecture/)
+### Layers 
 In a Clean Architecture setup, the system is divided into layers, each with its own specific responsibility. This repository contains a base implementation of Clean Architecture in JavaScript using NodeJS. The code includes three layers of abstraction:
 
 - **Domain Layer**: This is where the models and business rules are implemented via the behavior of the models.
