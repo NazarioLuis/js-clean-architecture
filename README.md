@@ -268,3 +268,21 @@ describe("User", function () {
 ```
 
 This implementation covers the basic structure and flow of Clean Architecture in NodeJS, focusing on separation of concerns and modularity. The provided code includes models, behaviors, repositories, and tests to demonstrate how each layer interacts with one another.
+
+## How to cite this repository
+
+### IEEE
+
+[1] N. L. Ayala-Frasnelli and A. D. Ruiz-Diaz-Medina, "Clean Architecture Implementation in NodeJS. GitHub repository." GitHub, 2021. [Online]. Available: https://github.com/NazarioLuis/js-clean-architecture
+
+### BibTeX
+
+```bibtex
+@misc{nazarioluis_js_clean_architecture_2021,
+  title     = {Clean Architecture Implementation in NodeJS. {GitHub} repository.},
+  url       = {https://github.com/NazarioLuis/js-clean-architecture},
+  publisher = {GitHub},
+  author    = {Ayala-Frasnelli, Nazario Luis and Ruiz-Diaz-Medina, Antonio Davida},
+  year      = {2021}
+}
+```
